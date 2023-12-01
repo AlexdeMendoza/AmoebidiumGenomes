@@ -1,0 +1,61 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher	Ontology
+GO:0016053	organic acid biosynthetic process	248	31	14.02	1.8e-05	BP
+GO:0046394	carboxylic acid biosynthetic process	248	31	14.02	1.8e-05	BP
+GO:0061615	glycolytic process through fructose-6-ph...	30	9	1.7	2.6e-05	BP
+GO:0006735	NADH regeneration	26	8	1.47	6.0e-05	BP
+GO:0061621	canonical glycolysis	26	8	1.47	6.0e-05	BP
+GO:0061718	glucose catabolic process to pyruvate	26	8	1.47	6.0e-05	BP
+GO:0061620	glycolytic process through glucose-6-pho...	28	8	1.58	0.00011	BP
+GO:0019320	hexose catabolic process	36	9	2.04	0.00013	BP
+GO:0018990	ecdysis, chitin-based cuticle	6	4	0.34	0.00014	BP
+GO:0050896	response to stimulus	2512	171	142.02	0.00016	BP
+GO:0009423	chorismate biosynthetic process	3	3	0.17	0.00018	BP
+GO:0046417	chorismate metabolic process	3	3	0.17	0.00018	BP
+GO:0006007	glucose catabolic process	30	8	1.7	0.00018	BP
+GO:0042866	pyruvate biosynthetic process	38	9	2.15	0.00020	BP
+GO:0006734	NADH metabolic process	31	8	1.75	0.00024	BP
+GO:0052173	response to defenses of other organism	18	6	1.02	0.00032	BP
+GO:0052200	response to host defenses	18	6	1.02	0.00032	BP
+GO:0075136	response to host	18	6	1.02	0.00032	BP
+GO:0006950	response to stress	1486	110	84.01	0.00036	BP
+GO:0046365	monosaccharide catabolic process	41	9	2.32	0.00036	BP
+GO:0043207	response to external biotic stimulus	414	40	23.41	0.00043	BP
+GO:0051707	response to other organism	414	40	23.41	0.00043	BP
+GO:0009607	response to biotic stimulus	442	42	24.99	0.00043	BP
+GO:0009435	NAD biosynthetic process	43	9	2.43	0.00053	BP
+GO:1990414	replication-born double-strand break rep...	4	3	0.23	0.00069	BP
+GO:0008652	cellular amino acid biosynthetic process	105	15	5.94	0.00072	BP
+GO:0006032	chitin catabolic process	14	5	0.79	0.00073	BP
+GO:0044419	interspecies interaction between organis...	569	50	32.17	0.00075	BP
+GO:0019752	carboxylic acid metabolic process	534	47	30.19	0.00108	BP
+GO:0019359	nicotinamide nucleotide biosynthetic pro...	57	10	3.22	0.00114	BP
+GO:0004553	hydrolase activity, hydrolyzing O-glycos...	44	9	2.56	0.00077	MF
+GO:0004568	chitinase activity	14	5	0.81	0.00082	MF
+GO:0016798	hydrolase activity, acting on glycosyl b...	56	10	3.25	0.00121	MF
+GO:0004467	long-chain fatty acid-CoA ligase activit...	16	5	0.93	0.00163	MF
+GO:0015645	fatty acid ligase activity	16	5	0.93	0.00163	MF
+GO:0008843	endochitinase activity	10	4	0.58	0.00177	MF
+GO:0003849	3-deoxy-7-phosphoheptulonate synthase ac...	2	2	0.12	0.00336	MF
+GO:0003896	DNA primase activity	2	2	0.12	0.00336	MF
+GO:0016491	oxidoreductase activity	343	32	19.92	0.00434	MF
+GO:0016405	CoA-ligase activity	20	5	1.16	0.00479	MF
+GO:0008061	chitin binding	13	4	0.75	0.00523	MF
+GO:0016810	hydrolase activity, acting on carbon-nit...	72	10	4.18	0.00804	MF
+GO:0008301	DNA binding, bending	8	3	0.46	0.00871	MF
+GO:0003690	double-stranded DNA binding	209	21	12.14	0.00896	MF
+GO:0016878	acid-thiol ligase activity	23	5	1.34	0.00901	MF
+GO:0000907	sulfonate dioxygenase activity	3	2	0.17	0.00969	MF
+GO:0000908	taurine dioxygenase activity	3	2	0.17	0.00969	MF
+GO:0004743	pyruvate kinase activity	9	3	0.52	0.01252	MF
+GO:0015187	glycine transmembrane transporter activi...	9	3	0.52	0.01252	MF
+GO:0016861	intramolecular oxidoreductase activity, ...	9	3	0.52	0.01252	MF
+GO:0005126	cytokine receptor binding	17	4	0.99	0.01450	MF
+GO:0001046	core promoter sequence-specific DNA bind...	26	5	1.51	0.01528	MF
+GO:0000981	DNA-binding transcription factor activit...	128	14	7.43	0.01554	MF
+GO:0004169	dolichyl-phosphate-mannose-protein manno...	10	3	0.58	0.01712	MF
+GO:0010485	H4 histone acetyltransferase activity	10	3	0.58	0.01712	MF
+GO:0001968	fibronectin binding	4	2	0.23	0.01864	MF
+GO:0016634	oxidoreductase activity, acting on the C...	4	2	0.23	0.01864	MF
+GO:0016812	hydrolase activity, acting on carbon-nit...	4	2	0.23	0.01864	MF
+GO:0017046	peptide hormone binding	4	2	0.23	0.01864	MF
+GO:0070061	fructose binding	4	2	0.23	0.01864	MF

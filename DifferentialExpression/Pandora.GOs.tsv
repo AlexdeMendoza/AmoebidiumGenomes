@@ -1,0 +1,61 @@
+GO.ID	Term	Annotated	Significant	Expected	classicFisher	Ontology
+GO:0031117	positive regulation of microtubule depol...	6	6	0.02	1.7e-15	BP
+GO:1900075	positive regulation of neuromuscular syn...	6	6	0.02	1.7e-15	BP
+GO:0051228	mitotic spindle disassembly	7	6	0.03	1.2e-14	BP
+GO:1900074	negative regulation of neuromuscular syn...	7	6	0.03	1.2e-14	BP
+GO:0051230	spindle disassembly	8	6	0.03	4.7e-14	BP
+GO:0019226	transmission of nerve impulse	9	6	0.04	1.4e-13	BP
+GO:0048687	positive regulation of sprouting of inju...	9	6	0.04	1.4e-13	BP
+GO:0048691	positive regulation of axon extension in...	9	6	0.04	1.4e-13	BP
+GO:0051013	microtubule severing	9	6	0.04	1.4e-13	BP
+GO:1901881	positive regulation of protein depolymer...	9	6	0.04	1.4e-13	BP
+GO:0031114	regulation of microtubule depolymerizati...	10	6	0.04	3.5e-13	BP
+GO:1900073	regulation of neuromuscular synaptic tra...	10	6	0.04	3.5e-13	BP
+GO:0048677	axon extension involved in regeneration	11	6	0.04	7.7e-13	BP
+GO:0048686	regulation of sprouting of injured axon	11	6	0.04	7.7e-13	BP
+GO:0048690	regulation of axon extension involved in...	11	6	0.04	7.7e-13	BP
+GO:0021955	central nervous system neuron axonogenes...	12	6	0.05	1.5e-12	BP
+GO:0048682	sprouting of injured axon	12	6	0.05	1.5e-12	BP
+GO:0019896	axonal transport of mitochondrion	14	6	0.06	5.0e-12	BP
+GO:0031468	nuclear membrane reassembly	14	6	0.06	5.0e-12	BP
+GO:0034214	protein hexamerization	14	6	0.06	5.0e-12	BP
+GO:0035099	hemocyte migration	14	6	0.06	5.0e-12	BP
+GO:0048680	positive regulation of axon regeneration	14	6	0.06	5.0e-12	BP
+GO:0070572	positive regulation of neuron projection...	14	6	0.06	5.0e-12	BP
+GO:0090148	membrane fission	14	6	0.06	5.0e-12	BP
+GO:0007019	microtubule depolymerization	16	6	0.06	1.3e-11	BP
+GO:0043243	positive regulation of protein-containin...	16	6	0.06	1.3e-11	BP
+GO:2000331	regulation of terminal button organizati...	17	6	0.07	2.0e-11	BP
+GO:0099174	regulation of presynapse organization	18	6	0.07	3.0e-11	BP
+GO:0031112	positive regulation of microtubule polym...	19	6	0.08	4.4e-11	BP
+GO:0008089	anterograde axonal transport	20	6	0.08	6.3e-11	BP
+GO:0008568	microtubule severing ATPase activity	9	6	0.04	2.3e-13	MF
+GO:0140776	protein-containing complex destabilizing...	9	6	0.04	2.3e-13	MF
+GO:0043014	alpha-tubulin binding	13	6	0.06	4.6e-12	MF
+GO:0048487	beta-tubulin binding	15	6	0.06	1.3e-11	MF
+GO:0005372	water transmembrane transporter activity	4	4	0.02	2.5e-10	MF
+GO:0015250	water channel activity	4	4	0.02	2.5e-10	MF
+GO:0008017	microtubule binding	62	6	0.27	1.5e-07	MF
+GO:0032454	histone H3-methyl-lysine-9 demethylase a...	5	3	0.02	6.8e-07	MF
+GO:0015631	tubulin binding	88	6	0.38	1.2e-06	MF
+GO:0051864	histone H3-methyl-lysine-36 demethylase ...	8	3	0.03	3.8e-06	MF
+GO:0032452	histone demethylase activity	12	3	0.05	1.5e-05	MF
+GO:0140457	protein demethylase activity	12	3	0.05	1.5e-05	MF
+GO:0015267	channel activity	42	4	0.18	2.5e-05	MF
+GO:0022803	passive transmembrane transporter activi...	42	4	0.18	2.5e-05	MF
+GO:0032451	demethylase activity	19	3	0.08	6.4e-05	MF
+GO:0003684	damaged DNA binding	58	4	0.25	9.2e-05	MF
+GO:0050681	nuclear androgen receptor binding	23	3	0.1	0.00012	MF
+GO:0035064	methylated histone binding	24	3	0.1	0.00013	MF
+GO:0140034	methylation-dependent protein binding	24	3	0.1	0.00013	MF
+GO:0043167	ion binding	972	12	4.21	0.00014	MF
+GO:0005524	ATP binding	295	7	1.28	0.00014	MF
+GO:0016706	2-oxoglutarate-dependent dioxygenase act...	29	3	0.13	0.00023	MF
+GO:0032559	adenyl ribonucleotide binding	323	7	1.4	0.00025	MF
+GO:0030554	adenyl nucleotide binding	326	7	1.41	0.00027	MF
+GO:0008092	cytoskeletal protein binding	228	6	0.99	0.00028	MF
+GO:0031490	chromatin DNA binding	34	3	0.15	0.00038	MF
+GO:0016887	ATP hydrolysis activity	346	7	1.5	0.00039	MF
+GO:0051213	dioxygenase activity	39	3	0.17	0.00057	MF
+GO:0003909	DNA ligase activity	10	2	0.04	0.00078	MF
+GO:0003910	DNA ligase (ATP) activity	10	2	0.04	0.00078	MF
