@@ -14,7 +14,7 @@
 ## Isolates
  This folder contains the genomes of the two alternative isolate genomes, a *Amoebidium appalachense* (Isolate 9181) and a *Amoebidium parasiticum* genome (Isolate 9257).
 
-~~Code~~
+###Code
  
 Then the Analysis Script covers the R code to generate the analysis of the various graphics in the paper. 
  
