@@ -12,9 +12,9 @@
  This folder contains the TEcounts outputs for both control and 5-Azacytidine treatments for *Amoebidium appalachense* and *Sphaeroforma arctica*.
  
 ## Isolates
- This folder contains the genomes of the two alternative isolate genomes, a *Amoebidium appalachense* (Isolate 9181) and a *Amoebidium parasiticum* genome (Isolate 9257).
+ This folder contains the genomes of the two alternative isolate genomes, an isolate of *Amoebidium appalachense* (9181) and an isolate of *Amoebidium parasiticum* (9257).
 
-###Code
+### Code
  
 Then the Analysis Script covers the R code to generate the analysis of the various graphics in the paper. 
  
