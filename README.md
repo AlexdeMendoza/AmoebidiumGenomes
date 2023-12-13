@@ -20,4 +20,4 @@ Then the Analysis Script covers the R code to generate the analysis of the vario
  
 If you use any of this material, reference the manuscript: 
 
-Sarre LA, Kim IV, Ovchinnikov V, Olivetta M, Suga H, Dudin O, Sebé-Pedrós A, de Mendoza A. DNA methylation enables recurrent endogenisation of giant viruses in an animal relative.  
+Sarre LA, Kim IV, Ovchinnikov V, Olivetta M, Suga H, Dudin O, Sebé-Pedrós A, de Mendoza A. DNA methylation enables recurrent endogenisation of giant viruses in an animal relative. 2023.  
