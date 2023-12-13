@@ -14,10 +14,10 @@
 ## Isolates
  This folder contains the genomes of the two alternative isolate genomes, an isolate of *Amoebidium appalachense* (9181) and an isolate of *Amoebidium parasiticum* (9257).
 
-### Code
+## Code
  
-Then the Analysis Script covers the R code to generate the analysis of the various graphics in the paper. 
+A collection of scripts that covers the R code used to generate the analysis of the various graphics in the paper. 
  
-If you use any of this material, reference the manuscript: 
+If you use any of this material, reference the original manuscript: 
 
 Sarre LA, Kim IV, Ovchinnikov V, Olivetta M, Suga H, Dudin O, Sebé-Pedrós A, de Mendoza A. DNA methylation enables recurrent endogenisation of giant viruses in an animal relative. 2023.  
