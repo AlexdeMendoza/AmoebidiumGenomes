@@ -1,6 +1,6 @@
 # Amoebidium Genomes 
  The data and code used for the Amoebidium genome project.
- It is divided into 4 folders:
+ It is divided into 5 folders:
 
 ## Reference Genome
  This folder contains the reference chromosome scale genome for *Amoebidium appalachense* and all the associated annotation files. 
