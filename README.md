@@ -1,7 +1,8 @@
 # Amoebidium Genomes 
  The data and code used for the Amoebidium genome project.
  
- Genome assembly and raw genomic reads can be found here: PRJEB68378
+ Genome assembly and raw genomic reads can be found here: PRJEB68378.
+ 
  EM-seq and RNA-seq raw data can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249241
  
  This repository included processed files and is divided into 5 folders:
