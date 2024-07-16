@@ -24,4 +24,4 @@
  
 If you use any of this material, reference the original manuscript: 
 
-Sarre LA, Kim IV, Ovchinnikov V, Olivetta M, Suga H, Dudin O, Sebé-Pedrós A, de Mendoza A. DNA methylation enables recurrent endogenisation of giant viruses in an animal relative. 2024. Science Advances. 10, eado6406.DOI:10.1126/sciadv.ado6406 
+Sarre LA, Kim IV, Ovchinnikov V, Olivetta M, Suga H, Dudin O, Sebé-Pedrós A, de Mendoza A. **DNA methylation enables recurrent endogenisation of giant viruses in an animal relative**. 2024. *Science Advances*. 10, eado6406.DOI:10.1126/sciadv.ado6406 
