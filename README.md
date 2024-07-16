@@ -5,7 +5,7 @@
  
  EM-seq and RNA-seq raw data can be found here: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249241
  
- This repository included processed files and is divided into 5 folders:
+ This repository includes processed files and is divided into 5 folders:
 
 ## Reference Genome
  This folder contains the reference chromosome scale genome for *Amoebidium appalachense* and all the associated annotation files. 
